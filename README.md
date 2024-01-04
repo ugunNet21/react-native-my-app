@@ -3,6 +3,13 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+## Install Library
+```bash
+npm install -g react-native-cli
+```
+```bash
+npm uninstall -g react-native-cli
+```
 ## Create Projeect
 ```bash
 npx react-native init ReactMyap
